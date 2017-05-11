@@ -1,0 +1,15 @@
+{
+    "starVision":
+    {
+        "blobDetection":
+        {
+            "filterByArea":true,
+            "minArea":0.01,
+            "maxArea":1000,
+            "filterByColor":true,
+            "blobColor":255
+        },
+        "maxStarsToTriad":25,
+        "triadComboCache":true
+    }
+}

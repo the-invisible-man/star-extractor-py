@@ -6,9 +6,9 @@ This utility is a module for a Nanosatellite star tracker. A Star Tracker aims t
 
 ## Dependencies
 
-OpenCV (cv2)
-NumPy
-Itertools
+* OpenCV (cv2)
+* NumPy
+* Itertools
 
 ## Algorithm
 
